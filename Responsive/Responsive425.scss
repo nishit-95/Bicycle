@@ -1,0 +1,319 @@
+@media screen and (max-width: 700px) {
+    #forIcon {
+        right: 120px;
+    }
+
+    #Home {
+        .right {
+            .bicycle {
+                height: 300px;
+                width: auto;
+            }
+        }
+
+        .left {
+            .para {
+                width: 283px;
+            }
+        }
+    }
+
+    #Pages #carouselExampleControls .carousel-inner .carousel-item div {
+        margin: 0 90px;
+    }
+
+    #Pages img {
+        margin: 0 90px;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    #Contact_Us {
+        .two {
+            flex-direction: column;
+        }
+    }
+
+    #Pages #carouselExampleControls .carousel-inner .carousel-item div {
+        margin: 0 50px;
+    }
+
+    #Pages img {
+        margin: 0 50px;
+    }
+
+    #About_us .newBicycle p {
+        padding-right: 26px;
+    }
+
+    #Home {
+        .right {
+            .bicycle {
+                height: 222px;
+                width: auto;
+            }
+
+            .road {
+                margin-top: -70px;
+            }
+        }
+    }
+
+    .two_2 {
+        margin-left: 50px;
+    }
+
+    .two_3 {
+        margin-left: 50px;
+    }
+
+    #aa {
+        .lorem {
+            .upper {
+                .first {
+                    font-size: 30px;
+                }
+
+                .second {
+                    width: 328px;
+                }
+            }
+        }
+    }
+
+    #Gallery .in1 {
+        flex-direction: column;
+    }
+
+    #About_us {
+        .luxury {
+            img {
+                width: 487px - 48px;
+                height: 290px - 29px;
+            }
+        }
+
+        .newBicycle img {
+            height: 292px - 29px;
+            width: 484px - 48px;
+        }
+    }
+
+}
+
+@media screen and (max-width: 480px) {
+    #aa {
+        .bicucle {
+            img {
+                width: 380px;
+                height: auto;
+            }
+        }
+    }
+
+    #Pages #carouselExampleControls .carousel-inner .carousel-item div p {
+        width: 300px;
+    }
+
+    #About_us {
+        .newBicycle {
+            p {
+                padding-right: 30px;
+            }
+        }
+    }
+
+    #About_us .newBicycle img {
+        width: -webkit-fill-available;
+    }
+
+    #About_us .newBicycle p {
+        margin-right: -294px;
+        text-align: center;
+        width: 170px;
+        margin-top: 125px;
+    }
+
+    #About_us .luxury img {
+        width: -webkit-fill-available;
+        height: 261px;
+    }
+
+    #About_us .luxury p {
+        width: 176px;
+        margin-top: 118px;
+        padding-left: 22px;
+    }
+
+    #Pages img {
+        width: -webkit-fill-available;
+        height: 305px;
+    }
+
+    #About_us .newBicycle p {
+        margin-right: -297px;
+        text-align: center;
+        width: 119px;
+        margin-top: 125px;
+    }
+
+    footer {
+        margin: 19px 0;
+    }
+}
+
+
+@media screen and (max-width: 390px) {
+
+    .navbar .navbar-brand img {
+        margin-left: 54px;
+        margin-top: 30px;
+        width: 96px;
+        height: 83px;
+    }
+
+    .navbar .navbar-brand p {
+        margin-left: 40px;
+    }
+
+    #Home .right .bicycle {
+        height: 162px;
+        width: auto;
+    }
+
+    #About_us .newBicycle p {
+        width: 93px;
+    }
+
+    #Pages #carouselExampleControls .carousel-inner .carousel-item div {
+        margin: 0 20px;
+    }
+
+    #Pages img {
+        margin: 0 20px;
+    }
+
+    #aa .bicucle img {
+        width: -webkit-fill-available;
+    }
+
+    #About_us .newBicycle p {
+        margin-right: -230px;
+        width: 80px;
+    }
+
+    #About_us .luxury p {
+        width: 130px;
+        margin-top: 118px;
+        padding-left: 22px;
+    }
+
+    footer {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 335px) {
+    #Pages #carouselExampleControls .carousel-inner .carousel-item div p {
+        width: 225px;
+    }
+
+    #aa .lorem .upper .second {
+        width: 210px;
+    }
+
+    #About_us .newBicycle p {
+        margin-right: -187px;
+        width: 80px;
+    }
+}
+
+@media screen and (max-width: 300px) {
+
+    .navbar .navbar-brand img {
+        margin-left: 14px;
+    }
+
+    .navbar .navbar-brand p {
+        margin-left: 0px;
+    }
+
+    #Home .right .bicycle {
+        height: 140px;
+    }
+
+    #Home .left .head {
+        font-size: 28px;
+    }
+
+    #Home .left .para {
+        font-size: 13px;
+    }
+
+    #Home .left .para {
+        width: 230px;
+    }
+
+    #aa .lorem .upper .first {
+        font-size: 28px;
+    }
+
+    #aa .lorem .upper .second {
+        font-size: 13px;
+    }
+
+    #About_us .luxury p {
+        margin-left: -190px;
+        line-height: 30px;
+    }
+
+    #Gallery hr {
+        font-size: 25px;
+    }
+
+    #Blog hr {
+        font-size: 25px;
+    }
+
+    #Blog .inn1 .inn2 img {
+        width: -webkit-fill-available;
+    }
+
+    #Blog .inn1 .inn2 {
+        margin: 0;
+    }
+
+    #Contact_Us .three .FirstThree img {
+        height: 80px;
+        width: 80px;
+    }
+
+    #Contact_Us .three .SecondThree img {
+        margin-bottom: 60px;
+        height: 80px;
+        width: 80px;
+    }
+
+    footer {
+        font-size: 12px;
+    }
+
+    #Blog .inn1 .inn2 .cons {
+        font-size: 14px;
+        width: -webkit-fill-available;
+    }
+
+    #Pages #carouselExampleControls .carousel-inner .carousel-item div p {
+        width: 300px;
+    }
+
+    #Pages #carouselExampleControls .carousel-inner .carousel-item div p {
+        width: 300px;
+    }
+
+    #Contact_Us .one .p_2 {
+        width: -webkit-fill-available;
+    }
+}
+
+@media screen and (max-width: 240px) {}

@@ -1,0 +1,475 @@
+@media screen and (max-width: 1370px) {
+  #Home .right .bicycle {
+    height: 500px;
+  }
+}
+
+@media screen and (max-width: 1320px) {
+  #Home .right .bicycle {
+    height: auto;
+  }
+}
+
+@media screen and (max-width: 1230px) {
+  #Home .left .head {
+    margin-left: 70px;
+    font-size: 30px;
+    margin-top: 70px;
+  }
+
+  #Home .left .para {
+    font-size: 15px;
+    margin-left: 70px;
+    width: 261px;
+    line-height: 1.1;
+    margin-top: 24px;
+  }
+
+  #Home .left .btn {
+    width: 170px;
+    height: 45px;
+    margin-left: 70px;
+    margin-top: 15px;
+  }
+
+  #Home .right .bicycle {
+    margin-top: 165px;
+    margin-left: 370px;
+  }
+}
+
+@media screen and (max-width: 1145px) {
+  #Contact_Us {
+    flex-direction: column;
+  }
+
+  #Contact_Us .two {
+    gap: 90px;
+    margin-top: 50px;
+  }
+
+  #Contact_Us .three {
+    margin-left: 0;
+  }
+
+  #Contact_Us .three h3 {
+    text-align: center;
+    margin-top: 90px;
+  }
+
+  #Contact_Us .three .FirstThree img {
+    height: 100px;
+    width: 100px;
+  }
+
+  #Contact_Us .three .SecondThree img {
+    margin-bottom: 60px;
+    height: 100px;
+    width: 100px;
+  }
+
+  #aa {
+    gap: 40px;
+  }
+
+  #aa .bicucle img {
+    width: 439px;
+    height: 413px;
+    margin-top: 125px;
+    margin-left: 0;
+  }
+
+  #aa .lorem .lower {
+    gap: 10px;
+  }
+
+  #About_us .newBicycle img {
+    height: 292px;
+    width: 484px;
+  }
+
+  #About_us .luxury img {
+    width: 487px;
+    height: 280px;
+    margin-top: 95px;
+  }
+
+  .already {
+    gap: 20px;
+  }
+
+  #Gallery .in1 {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 59px;
+  }
+
+  #Blog .inn1 {
+    display: flex;
+    margin-top: 52px;
+    justify-content: center;
+    gap: 20px;
+  }
+}
+
+@media screen and (max-width: 1100px) {
+  #Pages #carouselExampleControls .carousel-inner .carousel-item div {
+    width: -webkit-fill-available;
+  }
+
+  #aa .bicucle img {
+    margin-top: 100px;
+  }
+
+  #About_us .newBicycle img {
+    margin-top: 100px;
+  }
+
+  #forIcon {
+    display: block;
+    position: absolute;
+    right: 150px;
+    top: 50px;
+    font-size: 39px;
+    color: grey;
+  }
+
+  #navbar {
+    flex-direction: column;
+  }
+
+  #navbar #logo p {
+    font-size: 30px;
+    margin-left: 75px;
+  }
+
+  #navbar #logo a img {
+    margin-left: 93px;
+    width: 87px;
+    height: 75px;
+  }
+
+  #navbar ul {
+    flex-direction: column;
+    text-align: center;
+    width: 100%;
+    background-color: white;
+    box-shadow: 0px 0px 59px 7px rgba(0, 0, 0, 0.75);
+    transition: 10s ease;
+    display: none;
+  }
+
+  #navbar ul li {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 10px;
+  }
+
+  #navbar ul a {
+    display: block;
+    padding-top: 21px;
+  }
+
+  #Home {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+
+  #Home .left {
+    position: relative;
+  }
+
+  #Home .left .head {
+    margin: auto;
+    text-align: center;
+    margin-top: 50px;
+  }
+
+  #Home .left .para {
+    margin: auto;
+    margin-top: 24px;
+    width: 450px;
+  }
+
+  #Home .left .btn {
+    margin: auto;
+    display: block;
+    margin-top: 26px;
+  }
+
+  #Home .right .bicycle {
+    margin: auto;
+    display: block;
+    margin-top: 100px;
+  }
+
+  #aa {
+    flex-direction: column;
+  }
+
+  #aa .bicucle {
+    justify-content: center;
+    display: flex;
+  }
+
+  #aa .lorem .upper .first {
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  #aa .lorem .upper .second {
+    text-align: center;
+    margin: auto;
+    margin-top: 40px;
+  }
+
+  #aa .lorem .lower {
+    display: none;
+  }
+
+  #About_us {
+    flex-direction: column;
+  }
+
+  #About_us .newBicycle {
+    display: flex;
+    justify-content: center;
+  }
+
+  #About_us .luxury {
+    display: flex;
+    justify-content: center;
+  }
+
+  #About_us .luxury p {
+    margin-left: -250px;
+  }
+
+  #Pages #carouselExampleControls .carousel-inner .carousel-item div {
+    margin: 0 120px;
+  }
+
+  #Pages img {
+    width: -webkit-fill-available;
+    height: -webkit-fill-available;
+  }
+
+  #Pages img {
+    margin: auto;
+    margin: 0 120px;
+  }
+
+  #Gallery> :first-child {
+    display: none;
+  }
+
+  #Gallery .in1 .in2:not(:first-child) {
+    margin-top: 100px;
+  }
+
+  #Gallery .in1 .in2 .in3 {
+    margin: auto;
+  }
+
+  #Gallery .Product::after {
+    width: 60vw;
+  }
+
+  .already {
+    flex-direction: column;
+  }
+
+  #Blog> :first-child {
+    display: none;
+  }
+
+  #Blog .inn1 {
+    flex-direction: column;
+    gap: 50px;
+  }
+
+  #Blog .inn1 .inn2 {
+    margin: auto;
+  }
+
+  #Blog .Latest_Blog::after {
+    width: 60vw;
+  }
+
+  #Gallery hr {
+    display: block;
+    border: none;
+    border-top: 2px solid #333;
+    overflow: visible;
+    text-align: center;
+    margin: auto;
+    font-size: 35px;
+    line-height: 25px;
+    color: #1a4c85;
+    font-weight: 700;
+    font-family: "Roboto";
+    margin: 0 62px;
+    margin-top: 100px;
+    width: -webkit-fill-available;
+  }
+
+  #Gallery hr:after {
+    background: #fff;
+    content: "Our Procuct";
+    padding: 0 4px;
+    position: relative;
+    top: -10px;
+  }
+
+  #About_us {
+    gap: 20px;
+  }
+
+  #About_us .newBicycle img {
+    height: 292px;
+    width: 484px;
+  }
+
+  #About_us .newBicycle p {
+    font-size: 27px;
+    width: 484px;
+  }
+
+  #Blog hr {
+    display: block;
+    border: none;
+    border-top: 2px solid #333;
+    overflow: visible;
+    text-align: center;
+    margin: auto;
+    font-size: 35px;
+    line-height: 25px;
+    color: #1a4c85;
+    font-weight: 700;
+    font-family: "Roboto";
+    margin: 0 62px;
+    margin-top: 100px;
+    width: -webkit-fill-available;
+  }
+
+  #Blog hr:after {
+    background: #fff;
+    content: "Latest Blog";
+    padding: 0 4px;
+    position: relative;
+    top: -10px;
+  }
+
+  #Pages {
+    flex-direction: column;
+    justify-content: center;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .navbar .collapse .navbar-nav {
+    width: auto;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  #Home .right .bicycle {
+    height: 315px;
+    margin-left: auto;
+  }
+
+  #Home .right .road {
+    margin-top: -130px;
+    height: auto;
+  }
+
+  #aa {
+    gap: 30px;
+  }
+
+  #aa .bicucle img {
+    width: 425px;
+    height: auto;
+  }
+
+  #About_us {
+    gap: 20px;
+  }
+
+  #About_us .newBicycle img {
+    height: 292px;
+    width: 484px;
+  }
+
+  #About_us .newBicycle p {
+    font-size: 27px;
+    width: 484px;
+  }
+
+  #About_us .luxury img {
+    width: 487px;
+    height: 290px;
+  }
+
+  #About_us .luxury p {
+    font-size: 27px;
+  }
+
+  #Gallery .Product {
+    margin-left: 35px;
+  }
+
+  #Gallery .Product::after {
+    width: 72vw;
+  }
+
+  #Gallery .in1 {
+    gap: 20px;
+  }
+
+  #Gallery .in1 .in2 .in3 {
+    width: 225px;
+  }
+
+  #Blog .Latest_Blog {
+    margin-left: 50px;
+  }
+
+  #Blog .Latest_Blog::after {
+    width: 69vw;
+  }
+
+  #Blog .inn1 {
+    padding: 0;
+    justify-content: center;
+    gap: 10px;
+  }
+
+  #Blog .inn1 .inn2 img {
+    width: 300px;
+  }
+
+  #Blog .inn1 .inn2 .paRa {
+    font-size: 21px;
+  }
+
+  #Blog .inn1 .inn2 .sep22 {
+    font-size: 16px;
+  }
+
+  #Blog .inn1 .inn2 .cons {
+    font-size: 14px;
+    width: 260px;
+  }
+}
+
+@media screen and (max-width: 630px) {
+  #Contact_Us .two {
+    gap: 50px;
+  }
+}
+
+/*# sourceMappingURL=Responsive_style.css.map */
